@@ -1,4 +1,4 @@
-# My Login App
+# B2BIT FRONT-END PROSEL
 
 This is a React-based web application built with TypeScript, featuring a login page and a protected profile page. It uses Formik for form handling, Yup for validation, Axios for API requests, Tailwind CSS for styling, and Shadcn UI for components like buttons, inputs, and spinners.
 
