@@ -15,7 +15,7 @@
     if (!profile) {
         return (
             <div className="flex min-h-screen items-center justify-center">
-                <Spinner className="text-yellow-300 "size={128} />
+                <Spinner className="text-b2bit-yellow "size={128} />
             </div>
         );
     }
@@ -25,7 +25,7 @@
       <header className="flex w-full items-center justify-end bg-white p-4 shadow-sm">
         <Button 
           onClick={logout} 
-          className="bg-blue-950 text-primary-foreground hover:bg-primary/90 px-18 py-6"
+          className="bg-b2bit-blue text-primary-foreground hover:bg-primary/90 px-18 py-6"
         >
           Logout
         </Button>

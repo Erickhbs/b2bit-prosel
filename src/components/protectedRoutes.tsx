@@ -21,7 +21,7 @@ const ProtectedRoute = ({ children }: { children: JSX.Element }) => {
   if (!profile) {
     return (
       <div className="flex min-h-screen items-center justify-center">
-        <Spinner className="text-yellow-300 "size={128} />
+        <Spinner className=" text-b2bit-yellow "size={128} />
       </div>
     );
   }
